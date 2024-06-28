@@ -1,0 +1,21 @@
+{
+  "name": "yojnapp",
+  "version": "1.0.0",
+  "description": "yojn package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenCode/yojn"
+  },
+  "scripts": {
+    "test": "yojn"
+  },
+  "keywords": [
+    "yojn"
+  ],
+  "author": "yojn creater",
+  "license": "ISC",
+  "dependencies": {
+    "yojnapp": "^1.0.0"
+  }
+}
